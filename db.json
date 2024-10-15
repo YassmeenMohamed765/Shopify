@@ -11,6 +11,13 @@
       "name": "mazen",
       "email": "kk@kk.com",
       "role": "user"
+    },
+    {
+      "id": 5,
+      "name": "yasmeen",
+      "email": "yassmeen@gmail.com",
+      "role": "admin",
+      "password":"123"
     }
   ],
   "products": [
